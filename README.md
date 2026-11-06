@@ -5,10 +5,10 @@ This repository contains my Java solutions to LeetCode coding challenges. I crea
 ## 📚 Solved Problems
 ### 1. Fizz Buzz — LeetCode #412
 
-##Difficulty:** Easy
-##Problem Link:** https://leetcode.com/problems/fizz-buzz/
-##Java Solution:** [412-FizzBuzz.java](412-FizzBuzz.java)
-##Status:** ✅ Accepted — 8/8 Test Cases Passed
+## Difficulty: Easy
+## Problem Link: https://leetcode.com/problems/fizz-buzz/
+## Java Solution: [412-FizzBuzz.java](412-FizzBuzz.java)
+## Status: ✅ Accepted — 8/8 Test Cases Passed
 ---
 ## 📝 Problem Description
 Given an integer `n`, return a list of strings representing numbers from 1 to `n`.
